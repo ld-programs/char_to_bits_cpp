@@ -1,3 +1,25 @@
+
+
+/* * * * * * * * * * * * * * * * * * * * *
+ * 					 *
+ * 	(c) 2019 LD-programs 		 *	
+ *					 *
+ * 	Contact: ld.programs@gmx.at	 *
+ *					 *
+ *	www.ld-programs.tk		 *
+ *					 *
+ * * * * * * * * * * * * * * * * * * * * *
+ *					 * 
+ *	File: 	 	bitmap.h 	 *
+ *	Lang: 	 	CPP 		 *
+ * 	Version: 	Final 1.0 	 * 
+ *	Last Edit:	2019-08-14	 *
+ *					 * 
+ * * * * * * * * * * * * * * * * * * * * */
+
+
+
+
 #include <cmath>
 
 class bitmap
