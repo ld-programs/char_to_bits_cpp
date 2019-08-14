@@ -3,7 +3,7 @@ An simple CPP Libary to convert a char into its bits
 
 I used it to get the bits for my LCD-display
 
-/* * * * * * * * * * * * * * * * * * * * *
+ * * * * * * * * * * * * * * * * * * * * *
  * 					 *
  * 	(c) 2019 LD-programs 		 *	
  *					 *
@@ -18,4 +18,4 @@ I used it to get the bits for my LCD-display
  * 	Version: 	Final 1.0 	 * 
  *	Last Edit:	2019-08-14	 *
  *					 * 
- * * * * * * * * * * * * * * * * * * * * */
+ * * * * * * * * * * * * * * * * * * * * *
