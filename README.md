@@ -1,5 +1,5 @@
 # char_to_bits_cpp
-A simple CPP Libary to convert a char into its bits or bits into char
+A simple CPP Libary to convert char or int to or from bits
 
 I used it to get the bits for my LCD-display
 
